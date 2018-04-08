@@ -4,4 +4,6 @@
 
 # First I wrote code to get the factorial of 5. Once I was happy with my logic and maths, I then changed the script to alow for range 1 to 20 by asking hte user for inut
 
-# The int function was key here as it 
+# Needed to use the 'int' function is how to read integers as numbers
+# Source of 'int' function was https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-integers
+
